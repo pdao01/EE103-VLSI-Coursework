@@ -1,7 +1,7 @@
 # EE103-VLSI-Coursework
 A collection of VLSI design projects and simulations covering CMOS transistor-level design, inverter optimization, circuit characterization, digital logic design, and SPICE-based performance analysis using Cadence Virtuoso and HSPICE.
 
-# Topics & Projects
+## Topics & Projects
 
 - CMOS Circuit Design: Transistor-level implementation and analysis of CMOS circuits.
 - CMOS Inverter Design: NMOS/PMOS sizing, voltage transfer characteristics, and switching behavior.
@@ -9,14 +9,14 @@ A collection of VLSI design projects and simulations covering CMOS transistor-le
 - Digital Logic Design: Design and simulation of digital circuits, including counters and combinational logic.
 - Circuit Characterization: Analysis of timing, power, and electrical performance.
 
-# Tools & Technologies
+## Tools & Technologies
 
 - Cadence Virtuoso: Schematic capture and circuit design.
 - HSPICE: Transistor-level circuit simulation and optimization.
 - Synopsys Custom Compiler: Digital circuit design and implementation.
 - CMOS Technology: NMOS and PMOS transistor-level design.
 
-# Key Learning Outcomes
+## Key Learning Outcomes
 
 - Understanding CMOS transistor operation and circuit behavior.
 - Analyzing the relationship between transistor sizing and circuit performance.
