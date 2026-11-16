@@ -1,0 +1,8 @@
+EE103: LAB 01
+Student: Phuong Dao
+Professor: Yingjie Lao
+Date: 10/1/2026
+
+Objective: This lab is mainly about using the HSPICE simulation tool to explore the MOS transistor characteristics. 
+Lab 1 will use HSPICE and WaveView to generate graphs to visualize these characteristics, 
+such as sub-threshold swing, the body effect, DIBL, or temperature sensitivity.
